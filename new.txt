@@ -1,0 +1,2 @@
+git init(folder attached with git)
+git status(folder
